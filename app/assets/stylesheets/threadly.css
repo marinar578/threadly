@@ -123,10 +123,6 @@ li:nth-child(11) {
 opacity:0;
 }
 
-@media min-width 768px {
-.container {
-width:750px;
-}
 
 form input[type=text] {
 width:400px;
