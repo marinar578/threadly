@@ -127,17 +127,18 @@ opacity:0;
 form input[type=text] {
 width:400px;
 }
-}
+
 
 @media min-width 992px{
 .container {
 width:970px;
 }
+}
 
 form input[type=text] {
 width:600px;
 }
-}
+
 
 @media min-width 1200px{
 .container {
